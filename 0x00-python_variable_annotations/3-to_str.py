@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-""" Basic annotations - to string  """
+""" Basic annotations  """
 
 
 def to_str(n: float) -> str:
-    """ Returns the string representation of the float. """
+    """ Returns the string of the float. """
     return str(n)
